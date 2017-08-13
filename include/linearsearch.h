@@ -1,5 +1,5 @@
-#ifndef QUICK_SORT_H_
-#define QUICK_SORT_H_
+#ifndef LINEAR_SEARCH_H_
+#define LINEAR_SEARCH_H_
 
 namespace searching {
   template <typename It, typename Val, typename Pred=std::equal_to<typename std::iterator_traits<It>::value_type>>
